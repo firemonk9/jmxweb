@@ -1,5 +1,9 @@
 package com.dhiraj.jmxweb.model;
 
+import javax.management.MBeanServer;
+import javax.management.ObjectName;
+import java.lang.management.ManagementFactory;
+
 /**
  * Created with IntelliJ IDEA.
  * User: firemonk9
@@ -7,7 +11,42 @@ package com.dhiraj.jmxweb.model;
  * Time: 1:17 PM
  * To change this template use File | Settings | File Templates.
  */
-public class Hello implements HelloMBean{
+
+
+public class Hello {
+
+
+    public void myInit() throws Exception{
+
+
+    }
+
+    public void Hello(){
+
+//                try {
+//            System.out.println("this is cool ... strting");
+//            System.out.println(" getting started... ");
+//            MBeanServer mbs = ManagementFactory.getPlatformMBeanServer();
+//
+//            // Construct the ObjectName for the MBean we will register
+//            ObjectName name = null;
+//
+//
+//
+//            // Create the Hello World MBean
+//            HelloMBean hello = this;
+//
+//            //StandardMBean mbean = new StandardMBean(hello, HelloMBean.class);
+//
+//            name = new ObjectName("com.dhiraj.jmxexample:type=test1");
+//            // Register the Hello World MBean
+//            mbs.registerMBean(hello, name);
+//        } catch (Exception e) {
+//            e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
+//        }
+
+    }
+
     public void sayHello() {
         System.out.println("hello, world");
     }

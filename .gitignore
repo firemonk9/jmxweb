@@ -5,3 +5,7 @@ application.log*
 .project
 target
 .DS_Store
+jmxweb/log/**/*
+jmxweb/seg0/**/*
+.idea/**/*
+

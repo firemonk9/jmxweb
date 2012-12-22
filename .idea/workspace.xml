@@ -1,14 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d0b2691-42d8-421f-a213-15b0133368f1" name="Default" comment="" />
+    <list default="true" id="7d0b2691-42d8-421f-a213-15b0133368f1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dhiraj/jmxweb/model/DelMe.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jmxweb/seg0/c470.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jmxweb/seg0/c481.dat" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jmxweb/log/log.ctrl" afterPath="$PROJECT_DIR$/jmxweb/log/log.ctrl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jmxweb/log/logmirror.ctrl" afterPath="$PROJECT_DIR$/jmxweb/log/logmirror.ctrl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/dhiraj/jmxweb/model/Hello.java" afterPath="$PROJECT_DIR$/src/main/java/com/dhiraj/jmxweb/model/Hello.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/dhiraj/jmxweb/servlet/MyInit.java" afterPath="$PROJECT_DIR$/src/main/java/com/dhiraj/jmxweb/servlet/MyInit.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/META-INF/spring/applicationContext.xml" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/spring/applicationContext.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jmxweb/seg0/c101.dat" afterPath="$PROJECT_DIR$/jmxweb/seg0/c101.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jmxweb/seg0/c111.dat" afterPath="$PROJECT_DIR$/jmxweb/seg0/c111.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jmxweb/seg0/c121.dat" afterPath="$PROJECT_DIR$/jmxweb/seg0/c121.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jmxweb/seg0/c130.dat" afterPath="$PROJECT_DIR$/jmxweb/seg0/c130.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jmxweb/seg0/c141.dat" afterPath="$PROJECT_DIR$/jmxweb/seg0/c141.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jmxweb/seg0/c20.dat" afterPath="$PROJECT_DIR$/jmxweb/seg0/c20.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jmxweb/seg0/c31.dat" afterPath="$PROJECT_DIR$/jmxweb/seg0/c31.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jmxweb/seg0/c41.dat" afterPath="$PROJECT_DIR$/jmxweb/seg0/c41.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jmxweb/seg0/c51.dat" afterPath="$PROJECT_DIR$/jmxweb/seg0/c51.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jmxweb/seg0/c60.dat" afterPath="$PROJECT_DIR$/jmxweb/seg0/c60.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jmxweb/seg0/c71.dat" afterPath="$PROJECT_DIR$/jmxweb/seg0/c71.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jmxweb/seg0/c81.dat" afterPath="$PROJECT_DIR$/jmxweb/seg0/c81.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jmxweb/seg0/c90.dat" afterPath="$PROJECT_DIR$/jmxweb/seg0/c90.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jmxweb/seg0/ca1.dat" afterPath="$PROJECT_DIR$/jmxweb/seg0/ca1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jmxweb/seg0/cb1.dat" afterPath="$PROJECT_DIR$/jmxweb/seg0/cb1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jmxweb/seg0/cf0.dat" afterPath="$PROJECT_DIR$/jmxweb/seg0/cf0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jmxweb/db.lck" afterPath="$PROJECT_DIR$/jmxweb/db.lck" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/derby.log" afterPath="$PROJECT_DIR$/derby.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jmxweb.iml" afterPath="$PROJECT_DIR$/jmxweb.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jmxweb/log/log1.dat" afterPath="$PROJECT_DIR$/jmxweb/log/log1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="jmxweb.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/pom.xml" changelist="7d0b2691-42d8-421f-a213-15b0133368f1" time="1356200221800" ignored="false" />
-    <file path="/Hello.java" changelist="7d0b2691-42d8-421f-a213-15b0133368f1" time="1356200338428" ignored="false" />
+    <file path="/Hello.java" changelist="7d0b2691-42d8-421f-a213-15b0133368f1" time="1356202431611" ignored="false" />
     <file path="/a.txt" changelist="7d0b2691-42d8-421f-a213-15b0133368f1" time="1356200488054" ignored="false" />
     <file path="/MyInit.java" changelist="7d0b2691-42d8-421f-a213-15b0133368f1" time="1356200665406" ignored="false" />
     <file path="/web.xml" changelist="7d0b2691-42d8-421f-a213-15b0133368f1" time="1356200766595" ignored="false" />
+    <file path="/applicationContext.xml" changelist="7d0b2691-42d8-421f-a213-15b0133368f1" time="1356203238736" ignored="false" />
+    <file path="/SecretOps.java" changelist="7d0b2691-42d8-421f-a213-15b0133368f1" time="1356202794738" ignored="false" />
+    <file path="/Dummy.txt" changelist="7d0b2691-42d8-421f-a213-15b0133368f1" time="1356203358784" ignored="false" />
+    <file path="/DelMe.java" changelist="7d0b2691-42d8-421f-a213-15b0133368f1" time="1356203215749" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,8 +115,10 @@
       <file leaf-file-name="Hello.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dhiraj/jmxweb/model/Hello.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="40" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="15" column="19" selection-start="334" selection-end="334" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,13 +132,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="78" column="26" selection-start="2896" selection-end="2896" vertical-scroll-proportion="0.6409091">
+            <state line="78" column="26" selection-start="2896" selection-end="2896" vertical-scroll-proportion="-10.444445">
               <folding />
             </state>
           </provider>
@@ -113,10 +150,42 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="applicationContext.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/spring/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="86" column="75" selection-start="5693" selection-end="5693" vertical-scroll-proportion="0.82986766">
+              <folding>
+                <element signature="e#4136#4165#0" expanded="true" />
+                <element signature="e#4203#4220#0" expanded="true" />
+                <element signature="e#4263#4285#0" expanded="true" />
+                <element signature="e#4328#4350#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DelMe.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dhiraj/jmxweb/model/DelMe.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="24" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JobUser.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dhiraj/jmxweb/model/JobUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="13" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="MyInit.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dhiraj/jmxweb/servlet/MyInit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="42" selection-start="1304" selection-end="1304" vertical-scroll-proportion="0.0">
+            <state line="32" column="7" selection-start="924" selection-end="924" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -138,14 +207,25 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/dhiraj/jmxweb/model/HelloMBean.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dhiraj/jmxweb/model/Hello.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dhiraj/jmxweb/servlet/MyInit.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dhiraj/jmxweb/servlet/MyInit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dhiraj/jmxweb/model/Hello.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dhiraj/jmxweb/model/SecretOps.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dhiraj/jmxweb/model/DelMe.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/spring/applicationContext.xml" />
       </list>
     </option>
   </component>
@@ -512,29 +592,29 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="22" width="1436" height="878" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298153" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39973614" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298153" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298153" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17985612" sideWeight="0.05540897" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2176781" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17985612" sideWeight="0.31926122" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22158274" sideWeight="0.6701847" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1503597" sideWeight="0.7823219" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298153" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17985612" sideWeight="0.6055409" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17985612" sideWeight="0.45382586" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298153" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -575,7 +655,7 @@
     <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
-    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
     <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
     <option name="LIMIT_HISTORY" value="true" />
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
@@ -603,23 +683,9 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="436" column="11" selection-start="17558" selection-end="17558" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dhiraj/jmxweb/model/HelloMBean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="39" selection-start="519" selection-end="519" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dhiraj/jmxweb/model/Hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="40" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -636,19 +702,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dhiraj/jmxweb/servlet/MyInit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="42" selection-start="1304" selection-end="1304" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="26" selection-start="2896" selection-end="2896" vertical-scroll-proportion="0.6409091">
+        <state line="78" column="26" selection-start="2896" selection-end="2896" vertical-scroll-proportion="-10.444445">
           <folding />
         </state>
       </provider>
@@ -657,6 +716,55 @@
       </provider>
       <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dhiraj/jmxweb/model/JobUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="436" column="11" selection-start="17558" selection-end="17558" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dhiraj/jmxweb/servlet/MyInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="7" selection-start="924" selection-end="924" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dhiraj/jmxweb/model/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="19" selection-start="334" selection-end="334" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dhiraj/jmxweb/model/DelMe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="24" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/spring/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="75" selection-start="5693" selection-end="5693" vertical-scroll-proportion="0.82986766">
+          <folding>
+            <element signature="e#4136#4165#0" expanded="true" />
+            <element signature="e#4203#4220#0" expanded="true" />
+            <element signature="e#4263#4285#0" expanded="true" />
+            <element signature="e#4328#4350#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
