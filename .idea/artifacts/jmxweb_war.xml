@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jmxweb:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="jmxweb-0.1.0.BUILD-SNAPSHOT.war">
+      <element id="artifact" artifact-name="jmxweb:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE tiles-definitions PUBLIC "-//Apache Software Foundation//DTD Tiles Configuration 2.1//EN" "http://tiles.apache.org/dtds/tiles-config_2_1.dtd">
+<tiles-definitions>
+    <definition extends="default" name="jobusers/list">
+        <put-attribute name="body" value="/WEB-INF/views/jobusers/list.jspx"/>
+    </definition>
+<definition extends="default" name="jobusers/show">
+        <put-attribute name="body" value="/WEB-INF/views/jobusers/show.jspx"/>
+    </definition>
+<definition extends="default" name="jobusers/create">
+        <put-attribute name="body" value="/WEB-INF/views/jobusers/create.jspx"/>
+    </definition>
+<definition extends="default" name="jobusers/update">
+        <put-attribute name="body" value="/WEB-INF/views/jobusers/update.jspx"/>
+    </definition>
+</tiles-definitions>
